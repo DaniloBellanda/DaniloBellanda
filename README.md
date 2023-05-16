@@ -1,7 +1,7 @@
 ## Olá, Sou DaniloBellanda e estou cursando Ciência da Computação noturno.
 ### Estudei estrutura de dados em C++.
-### Realizei alguns projetos contendo CSS, HTML, React, TypeScript, C# e Java.
-### Tenho mais afinidade em Front-End, mas nada me impede de experimentar coisas novas.
+### Realizei alguns projetos contendo Python, CSS, HTML, React, TypeScript, C# e Java.
+### Hoje em dia estou fazendo bastante projetos com Python, mas me interesso por várias linguagens também.
 
 <div align="center">
   <a href="https://github.com/DaniloBellanda">
